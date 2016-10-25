@@ -3,7 +3,7 @@ Staffetta code from paper "STAFFETTA: SMART DUTY-CYCLING FOR OPPORTUNISTIC DATA 
 More info: 
 http://cattanimarco.com/2016/07/19/staffetta/
 
-Astract:
+Abstract:
 Recent opportunistic routing protocols address the problem of efficient data collection in dynamic wireless sensor networks, where the radio is duty cycled to save energy and the topology changes due to link dynamics and node mobility.
 Unlike traditional approaches that maintain a routing structure (e.g., a tree), opportunistic schemes forward packets to the first neighbor that wakes up, thereby reducing latency and energy consumption and increasing the robustness to network dynamics.
 Notwithstanding the many advantages, this paper argues that existing opportunistic protocols do not fully exploit the synergy between duty cycling and routing in that all nodes wake up with the same fixed frequency. 
